@@ -1,6 +1,6 @@
 # Contact-Manager
 
-
+Installing
  - git clone https://github.com/YadNash/Contact-Manager
  - Contact-Manager
  - npm install (these command install relevant dependencies)
