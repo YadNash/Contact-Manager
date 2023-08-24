@@ -6,8 +6,9 @@ Installing
  - npm install (these command install relevant dependencies)
  - npm start 
  - The demo will be live at http://localhost:3000/
- ⛏️ Built Using
-ReactJS
-TailwindCSS
-NodeJS
-ExpressJS
+ 
+⛏️ Built Using
+- ReactJS
+- TailwindCSS
+- NodeJS
+- ExpressJS
